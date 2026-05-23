@@ -2,7 +2,7 @@
 
 ## 📌 项目简介
 
-这是一个基于 **PySide6** 开发的桌面宠物程序（Table Pet）。程序在桌面显示一个动态角色，支持动画切换、鼠标拖拽移动、系统托盘交互、气泡对话、窗口透明/穿透/置顶等特性。[恩师](https://www.douyin.com/user/MS4wLjABAAAA0gqcA78H7aEk8PJJ8BBeVIMSxYknpNcqwuCjfL1hPcZyuGlqJsB_cwT7Pw11eLHw?from_tab_name=main&relation=0&vid=7625138275870674195)
+这是一个基于 **PySide6** 开发的桌面宠物程序（Table Pet）。程序在桌面显示一个动态角色，支持动画切换、鼠标拖拽移动、系统托盘交互、气泡对话、窗口透明/穿透/置顶等特性。[恩师 **dy脆脆派**](https://www.douyin.com/user/MS4wLjABAAAA0gqcA78H7aEk8PJJ8BBeVIMSxYknpNcqwuCjfL1hPcZyuGlqJsB_cwT7Pw11eLHw?from_tab_name=main&relation=0&vid=7625138275870674195)
 
 ---
 
